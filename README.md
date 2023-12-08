@@ -1,2 +1,2 @@
-# webpack_tree_shacking
+# Webpack Tree Shacking
 the experiment for webpack tree shacking.
