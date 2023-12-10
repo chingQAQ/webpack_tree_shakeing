@@ -1,2 +1,2 @@
-# Webpack Tree Shacking
-the experiment for webpack tree shacking.
+# Webpack Tree Shaking
+the experiment for webpack tree shaking.
